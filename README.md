@@ -1,2 +1,2 @@
 # Multiprocessing Search
-Multiprocessing searching in a game database using pipes
+Multiprocessing search in a game database using pipes
